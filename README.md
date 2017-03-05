@@ -2,6 +2,8 @@
 
 ##### This application is only server part without client
 
+###### routes/api/departments-router.js
+
 #### How to run:
 1. Clone this repository
 2. cd to folder
